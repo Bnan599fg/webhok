@@ -7,7 +7,7 @@ E = '\x1b[1;92m'
 def kid():
 	#@uiujq
     key = input(' key : ')
-    lin = input('Enter Link: ')
+    lin = input('Enterndhddbuz: ')
     usr = 'qwertyuiopasdfghjklzxcvbnm'
     m = 0
     while True:
